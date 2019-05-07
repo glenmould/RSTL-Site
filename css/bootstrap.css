@@ -1602,8 +1602,12 @@ pre code {
     width: 1170px;
   }
 .booking {
-	padding-top: 100px;
-	padding-bottom: 100px;
+	padding-top: 500px;
+	padding-bottom: 500px;
+	background-image: url("../images/8.gif");
+	background-size: cover;
+	background-blend-mode: overlay;
+	margin-bottom: 30px;
 }
 }
 .container-fluid {
@@ -6759,3 +6763,7 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.booking-info {
+	
+}
